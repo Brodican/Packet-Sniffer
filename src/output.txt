@@ -1,0 +1,4 @@
+../build/idsniff invoked. Settings:
+	Interface: eth0
+	Verbose: 0
+SUCCESS! Opened eth0 for capture
